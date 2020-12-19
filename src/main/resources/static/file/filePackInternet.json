@@ -1,0 +1,26 @@
+[
+  {
+    "name": "SMALL+",
+    "description": "Idealnie rozwiązanie na pozamiejskich terenach",
+    "speedDownload": 50,
+    "speedUpload": 5,
+    "typeInternet": "linkRadio",
+    "price": 19.99
+  },
+  {
+    "name": "MEDIUM+",
+    "description": "Standardowe rozwiązanie, bez limitów",
+    "speedDownload": 300,
+    "speedUpload": 30,
+    "typeInternet": "cableStandard",
+    "price": 39.99
+  },
+  {
+    "name": "LARGE+",
+    "description": "Światłowód, bez limitów",
+    "speedDownload": 1000,
+    "speedUpload": 100,
+    "typeInternet": "cableFiber",
+    "price": 59.99
+  }
+]

@@ -1,0 +1,34 @@
+[
+  {
+    "username": "a",
+    "password": "123",
+    "passwordConfirmation": "123",
+    "email": "a@admin.com",
+    "enabled": true,
+    "role": "ADMIN"
+  },
+  {
+    "username": "u1",
+    "password": "123",
+    "passwordConfirmation": "123",
+    "email": "u1@user.com",
+    "enabled": true,
+    "role": "USER"
+  },
+  {
+    "username": "u2",
+    "password": "123",
+    "passwordConfirmation": "123",
+    "email": "u2@user.com",
+    "enabled": true,
+    "role": "USER"
+  },
+  {
+    "username": "u3",
+    "password": "123",
+    "passwordConfirmation": "123",
+    "email": "u3@user.com",
+    "enabled": false,
+    "role": "USER"
+  }
+]

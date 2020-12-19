@@ -1,0 +1,62 @@
+[
+  {
+    "name": "START+",
+    "discount": 0,
+    "packTvId": 19
+  },
+  {
+    "name": "COMFORT+",
+    "discount": 0,
+    "packTvId": 20
+  },
+  {
+    "name": "EXTRA+",
+    "discount": 0,
+    "packTvId": 21
+  },
+  {
+    "name": "SMALL+",
+    "discount": 0,
+    "packInternetId": 22
+  },
+  {
+    "name": "MEDIUM+",
+    "discount": 0,
+    "packInternetId": 23
+  },
+  {
+    "name": "LARGE+",
+    "discount": 0,
+    "packInternetId": 24
+  },
+  {
+    "name": "NAZWA 1+",
+    "discount": 1,
+    "packPhoneId": 25
+  },
+  {
+    "name": "NAZWA 2+",
+    "discount": 2,
+    "packPhoneId": 26
+  },
+  {
+    "name": "NAZWA 3+",
+    "discount": 3,
+    "packPhoneId": 27
+  },
+  {
+    "name": "SUPER PAKIET",
+    "description": "Opis super pakietu",
+    "discount": 15,
+    "packInternetId": 23,
+    "packTvId": 20
+  },
+  {
+    "name": "MEGA PAKIET",
+    "description": "Opis mega pakietu",
+    "discount": 40,
+    "packPhoneId": 27,
+    "packInternetId": 24,
+    "packTvId": 21
+  }
+]

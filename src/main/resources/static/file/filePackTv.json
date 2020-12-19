@@ -1,0 +1,17 @@
+[
+  {
+    "name": "START+",
+    "description": "Podstawowa lista kanałów",
+    "price": 19.99
+  },
+  {
+    "name": "COMFORT+",
+    "description": "Rozszeżona lista kanałów",
+    "price": 39.99
+  },
+  {
+    "name": "EXTRA+",
+    "description": "Największa lista kanałów",
+    "price": 59.99
+  }
+]

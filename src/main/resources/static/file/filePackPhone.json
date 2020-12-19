@@ -1,0 +1,23 @@
+[
+  {
+    "name": "NAZWA 1+",
+    "description": "Podstawowy opis 1",
+    "price": 11.11,
+    "limitedConversation": "120",
+    "limitedInternet": "1"
+  },
+  {
+    "name": "NAZWA 2+",
+    "description": "Podstawowy opis 2",
+    "price": 22.22,
+    "limitedConversation": "nielimitowane",
+    "limitedInternet": "5"
+  },
+  {
+    "name": "NAZWA 3+",
+    "description": "Podstawowy opis 3",
+    "price": 33.33,
+    "limitedConversation": "nielimitowane",
+    "limitedInternet": "nielimitowane"
+  }
+]

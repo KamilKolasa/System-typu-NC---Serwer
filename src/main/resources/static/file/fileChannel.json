@@ -1,0 +1,27 @@
+[
+  {
+    "name": "TVN",
+    "description": "Polska stacja prezentująca przede wszystkim programy rozrywkowe i publicystyczne, polskie seriale, filmy fabularne i dokumentalne oraz wydarzenia kulturowe.",
+    "categoryId": 10
+  },
+  {
+    "name": "Polsat",
+    "description": "Najmocniejszymi filarami stacji są: doskonała rozrywka, pasjonujące kino, rzetelna i szybka informacja oraz emocjonujący sport.",
+    "categoryId": 10
+  },
+  {
+    "name": "Polsat Sport",
+    "description": "Całodobowy program sportowy. Transmisje Ligi Mistrzów UEFA i Ligi Europy UEFA.",
+    "categoryId": 11
+  },
+  {
+    "name": "Discovery",
+    "description": "Programy skupiają się na najbardziej interesujących aspektach nauki i technologii.",
+    "categoryId": 12
+  },
+  {
+    "name": "4fun TV",
+    "description": "Najbardziej muzyczna stacja telewizyjna w Polsce! Kanał skierowany do widzów, których interesują najgorętsze muzyczne trendy i dobra zabawa.",
+    "categoryId": 13
+  }
+]
